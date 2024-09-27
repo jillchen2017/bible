@@ -1,6 +1,6 @@
 //聖經和合本
-const RCUV = require('./data/RCUV.js');
+const rcuv = require('./data/rcuv.js');
 
 module.exports = {
-    RCUV,
+    rcuv,
 };
